@@ -63,6 +63,8 @@ To modify the API endpoints for your environment:
 - File type selection
 
 ## Requirements
+- Active API end points (Flask API demo used in **Filey-API ZIP folder**)
 
 - Modern web browser with JavaScript enabled
+
 - Active connection to the API server
